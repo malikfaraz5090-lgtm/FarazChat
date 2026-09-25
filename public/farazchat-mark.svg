@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" fill="none">
+  <defs>
+    <linearGradient id="rim" x1="18" y1="18" x2="107" y2="111" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#12D9F1"/>
+      <stop offset=".48" stop-color="#148BFF"/>
+      <stop offset="1" stop-color="#0752DE"/>
+    </linearGradient>
+    <linearGradient id="bubble" x1="63" y1="54" x2="95" y2="94" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#16DAF2"/>
+      <stop offset="1" stop-color="#0877F4"/>
+    </linearGradient>
+    <linearGradient id="letter" x1="35" y1="29" x2="52" y2="94" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF"/>
+      <stop offset="1" stop-color="#DCEBFF"/>
+    </linearGradient>
+  </defs>
+  <circle cx="64" cy="64" r="61" fill="#087BFF" opacity=".12"/>
+  <path d="M63.8 8C33 8 8 32.4 8 62.5c0 11.2 3.5 21.6 9.4 30.1L12 116l25.2-9.2a56.6 56.6 0 0 0 26.6 6.6c30.8 0 55.8-24.4 55.8-54.5S94.6 8 63.8 8Z" fill="#061A55" stroke="url(#rim)" stroke-width="7" stroke-linejoin="round"/>
+  <path d="M37 31h43c0 8.4-6.8 15.2-15.2 15.2H50.2v8.1h23.4c0 8.1-6.6 14.7-14.7 14.7H50.2v24H37V31Z" fill="url(#letter)"/>
+  <path d="M74.2 61.7c-9 0-16.3 6.9-16.3 15.4 0 4.1 1.7 7.8 4.5 10.6l-1.1 8.2 9.2-4.1c1.2.4 2.5.6 3.8.6 9 0 16.3-6.9 16.3-15.3 0-8.5-7.3-15.4-16.4-15.4Z" fill="url(#bubble)"/>
+  <circle cx="68.1" cy="77" r="2.2" fill="#FFF"/>
+  <circle cx="74.2" cy="77" r="2.2" fill="#FFF"/>
+  <circle cx="80.3" cy="77" r="2.2" fill="#FFF"/>
+</svg>

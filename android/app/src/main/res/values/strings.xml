@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">FarazChat</string>
+    <string name="title_activity_main">FarazChat</string>
+    <string name="package_name">com.farazchat.app</string>
+    <string name="custom_url_scheme">com.farazchat.app</string>
+</resources>

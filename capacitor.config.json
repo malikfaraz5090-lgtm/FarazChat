@@ -1,0 +1,9 @@
+{
+  "appId": "com.farazchat.app",
+  "appName": "FarazChat",
+  "webDir": "dist",
+  "backgroundColor": "#f3f6fb",
+  "android": {
+    "allowMixedContent": false
+  }
+}
